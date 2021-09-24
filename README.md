@@ -1,1 +1,1 @@
-# demo-project
+### Demo project for demonstrating platform pipeline
